@@ -13,7 +13,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     license='MIT',
-    url='https://github.com/kcp18/browserhistory',
+    url='https://github.com/himanshud9/pythonworks',
     py_modules=['browserhistory'],
     platforms=['Linux', 'MacOS', 'Windows'],
     classifiers=[
