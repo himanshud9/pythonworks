@@ -7,7 +7,7 @@ Suported Browsers: Firefox, Google Chrome, and Safari.
 
 ## Installation
 ```sh
-$ python3 -m pip install browserhistory
+$ python3 -m pip install browser_history
 ```
 
 or 
