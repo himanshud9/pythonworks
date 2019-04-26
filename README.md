@@ -13,7 +13,7 @@ $ python3 -m pip install browserhistory
 or 
 
 ```sh
-$ git clone https://github.com/kcp18/browserhistory
+$ git clone https://github.com/himanshud9/pythonworks
 ```
 
 ## Overview
